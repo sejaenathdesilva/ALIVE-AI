@@ -1,4 +1,7 @@
-# ALIVE-AI
+![Capture](https://github.com/sejaenathdesilva/ALIVE-AI/assets/141642890/8f0963f6-e19b-4cf7-ba0f-b95ec8a75300)
+
+ 
+ #ALIVE-AI
 
 
 Simple Overview of Use/Purpose:
@@ -42,4 +45,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 # Acknowledgments
 - Inspiration from various chatbot projects and NLP advancements.
 - Code snippets and guidance from awesome-readme, PurpleBooth, dbader, zenorocha, and fvcproductions.
-![Capture](https://github.com/sejaenathdesilva/ALIVE-AI/assets/141642890/0393ccf4-d66d-4031-a113-09df0c3812d4)
+
