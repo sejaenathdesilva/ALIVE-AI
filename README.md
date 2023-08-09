@@ -1,7 +1,7 @@
 ![Capture](https://github.com/sejaenathdesilva/ALIVE-AI/assets/141642890/8f0963f6-e19b-4cf7-ba0f-b95ec8a75300)
 
  
- #ALIVE-AI
+ # ALIVE-AI
 
 
 Simple Overview of Use/Purpose:
