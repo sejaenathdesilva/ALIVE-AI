@@ -42,3 +42,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 # Acknowledgments
 - Inspiration from various chatbot projects and NLP advancements.
 - Code snippets and guidance from awesome-readme, PurpleBooth, dbader, zenorocha, and fvcproductions.
+![Capture](https://github.com/sejaenathdesilva/ALIVE-AI/assets/141642890/0393ccf4-d66d-4031-a113-09df0c3812d4)
